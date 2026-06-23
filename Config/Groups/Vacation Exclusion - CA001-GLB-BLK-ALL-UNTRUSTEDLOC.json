@@ -1,0 +1,58 @@
+{
+  "id": "10f0ea79-75fe-4982-8bc0-100b860f6d86",
+  "deletedDateTime": null,
+  "classification": null,
+  "createdDateTime": "2024-05-24T09:26:12Z",
+  "createdByAppId": "14d82eec-204b-4c2f-b7e8-296a70dab67e",
+  "organizationId": "%OrganizationId%",
+  "description": null,
+  "displayName": "Vacation Exclusion - CA001-GLB-BLK-ALL-UNTRUSTEDLOC",
+  "expirationDateTime": null,
+  "groupTypes": [
+    
+  ],
+  "infoCatalogs": [
+    
+  ],
+  "isAssignableToRole": null,
+  "isManagementRestricted": null,
+  "mail": null,
+  "mailEnabled": false,
+  "mailNickname": "False",
+  "membershipRule": null,
+  "membershipRuleProcessingState": null,
+  "onPremisesDomainName": null,
+  "onPremisesLastSyncDateTime": null,
+  "onPremisesNetBiosName": null,
+  "onPremisesObjectIdentifier": null,
+  "onPremisesSamAccountName": null,
+  "onPremisesSecurityIdentifier": null,
+  "onPremisesSyncEnabled": null,
+  "preferredDataLocation": null,
+  "preferredLanguage": null,
+  "proxyAddresses": [
+    
+  ],
+  "renewedDateTime": "2024-05-24T09:26:12Z",
+  "resourceBehaviorOptions": [
+    
+  ],
+  "resourceProvisioningOptions": [
+    
+  ],
+  "securityEnabled": true,
+  "securityIdentifier": "S-1-12-1-3966078003-1097827042-3441024928-348561403",
+  "theme": null,
+  "visibility": null,
+  "uniqueName": null,
+  "onPremisesProvisioningErrors": [
+    
+  ],
+  "serviceProvisioningErrors": [
+    
+  ],
+  "writebackConfiguration": {
+    "isEnabled": null,
+    "onPremisesGroupType": null
+  }
+}
